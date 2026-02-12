@@ -1,0 +1,97 @@
+# LICENSE — MCL‑1.0 (Modular Cognitive Language)
+
+**Copyright © 2026 Patrizio Melis.  
+All Rights Reserved.**
+
+The **MCL‑1.0 (Modular Cognitive Language)** architecture — including its concepts,  
+terminology, layered structure, cognitive model, operational flows, diagrams,  
+and technical definitions contained within this repository — is the exclusive  
+intellectual property of **Patrizio Melis**.
+
+This repository is provided for **reading, study, and non‑commercial research** only.
+
+---
+
+## 1. Proprietary Rights
+
+All materials in this repository are protected under international copyright law.  
+No ownership, license, or rights are transferred to the user.
+
+You may **read**, **reference**, and **study** the architecture, but you may not  
+use it in any product, system, or implementation without explicit permission.
+
+---
+
+## 2. Commercial Restrictions
+
+You are **NOT permitted** to use this architecture, its logic, its structure,  
+or any derivative interpretation for:
+
+- commercial products  
+- industrial implementations  
+- enterprise systems  
+- for‑profit software development  
+- consulting or service offerings  
+
+unless you obtain **written authorization** from **Patrizio Melis**.
+
+---
+
+## 3. Derivative Works
+
+You may **NOT**:
+
+- modify  
+- transform  
+- extend  
+- adapt  
+- re‑implement  
+- or build derivative architectures  
+
+based on MCL‑1.0 without prior written consent.
+
+This includes partial reuse of concepts, diagrams, terminology, or structural  
+patterns in other frameworks or publications.
+
+---
+
+## 4. Redistribution
+
+You may not redistribute this documentation, in whole or in part, in any form  
+(print, digital, mirrored, archived, or republished) without explicit permission.
+
+Linking to the official repository is permitted.
+
+---
+
+## 5. Attribution
+
+Any academic, technical, or public reference to this architecture must clearly  
+attribute authorship to:
+
+**Patrizio Melis — Creator of MCL‑1.0 (Modular Cognitive Language)**
+
+---
+
+## 6. No Automated Training
+
+This architecture may **NOT** be used to train, fine‑tune, or instruct  
+machine learning models, LLMs, or AI systems without explicit permission.
+
+---
+
+## 7. No Warranty
+
+This documentation is provided *“as is”* without warranty of any kind,  
+express or implied.  
+The author is not liable for any damages arising from its use.
+
+---
+
+## 8. Contact for Licensing
+
+For partnership proposals, commercial licensing, or development collaborations,  
+please contact:
+
+**Email:** _[cobe571 AT hotmail DOT it]_  
+**Author:** Patrizio Melis
